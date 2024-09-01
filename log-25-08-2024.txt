@@ -1,0 +1,13 @@
+Movie Name : You Are So Not Invited to My Bat Mitzvah
+Movie Release Year : 2023
+Movie Guide : PG-13
+Movie Duration : 1h 43m
+Movie Rating: 6.0
+-------------------------------
+
+Movie Name : Dude
+Movie Release Year : 2018
+Movie Guide : TV-MA
+Movie Duration : 1h 37m
+Movie Rating: 5.1
+-------------------------------

@@ -1,0 +1,86 @@
+﻿08/15/2024 22:48:48 :
+ــــــــــــــــــــــــــــــــــــــــــــ
+Movie Name : Saw
+Movie Release Year : 2004
+Movie Guide : R
+Movie Duration : 1h 43m
+Movie Rating: 7.6
+-------------------------------
+Movie Name : Creed
+Movie Release Year : 2015
+Movie Guide : PG-13
+Movie Duration : 2h 13m
+Movie Rating: 7.6
+-------------------------------
+Movie Name : Rambo
+Movie Release Year : 2008
+Movie Guide : R
+Movie Duration : 1h 32m
+Movie Rating: 7.0
+-------------------------------
+
+08/15/2024 22:51:03 :
+ــــــــــــــــــــــــــــــــــــــــــــ
+Movie Name : Captain Marvel
+Movie Release Year : 2019
+Movie Guide : PG-13
+Movie Duration : 2h 3m
+Movie Rating: 6.8
+-------------------------------
+
+08/18/2024 12:57:24 :
+ــــــــــــــــــــــــــــــــــــــــــــ
+Movie Name : Ant-Man
+Movie Release Year : 2015
+Movie Guide : PG-13
+Movie Duration : 1h 57m
+Movie Rating: 7.2
+-------------------------------
+
+08/20/2024 01:25:42 :
+ــــــــــــــــــــــــــــــــــــــــــــ
+Movie Name : Wonderland
+Movie Release Year : 2024
+Movie Guide : No Guide Available
+Movie Duration : 1h 53m
+Movie Rating: 6.3
+-------------------------------
+
+08/20/2024 02:14:19 :
+ــــــــــــــــــــــــــــــــــــــــــــ
+Movie Name : Tenet
+Movie Release Year : 2020
+Movie Guide : PG-13
+Movie Duration : 2h 30m
+Movie Rating: 7.3
+-------------------------------
+Movie Name : Captain America: Brave New World
+Movie Release Year : 2025
+Movie Guide : No Guide Available
+Movie Duration : No Duration Available
+Movie Rating: No Rating Available
+-------------------------------
+
+08/20/2024 02:22:20 :
+ــــــــــــــــــــــــــــــــــــــــــــ
+Movie Name : Green Lantern
+Movie Release Year : 2011
+Movie Guide : PG-13
+Movie Duration : 1h 54m
+Movie Rating: 5.5
+-------------------------------
+
+08/20/2024 18:07:00 :
+ــــــــــــــــــــــــــــــــــــــــــــ
+Movie Name : Ant-Man
+Movie Release Year : 2015
+Movie Guide : PG-13
+Movie Duration : 1h 57m
+Movie Rating: 7.2
+-------------------------------
+Movie Name : Captain America: Brave New World
+Movie Release Year : 2025
+Movie Guide : No Guide Available
+Movie Duration : No Duration Available
+Movie Rating: No Rating Available
+-------------------------------
